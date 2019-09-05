@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "311384155864",
+    "firebase_url": "https://navgraph-3db4b.firebaseio.com",
+    "project_id": "navgraph-3db4b",
+    "storage_bucket": "navgraph-3db4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311384155864:android:01ea82888fb04232",
+        "android_client_info": {
+          "package_name": "ke.ac.navgraph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311384155864-0fpieqkn26dtdcgurgl8i55m6j8ku2j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.ac.navgraph",
+            "certificate_hash": "669e1a8f0e7f17c7c87a487743ad19d3884b3468"
+          }
+        },
+        {
+          "client_id": "311384155864-bsrbaug3o1li0b9t8g3804upgp77g76b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhC5pzTOf-hCneTey63SeGgJktX8-0DA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311384155864-bsrbaug3o1li0b9t8g3804upgp77g76b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
